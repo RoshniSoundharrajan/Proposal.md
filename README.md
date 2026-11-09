@@ -5,8 +5,6 @@
 https://github.com/RoshniSoundharrajan/Proposal.md.git
 
 ## Description
-1-2 sentence description of what it will do and how it relevant to media and digital arts.
-
 This program will be a interactive game where customers will come into your bakery and you have to bake something depending on their order. It will display art of the ingredients you use and will output the art of the baked pastry you've made. 
 
 
