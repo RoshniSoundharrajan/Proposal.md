@@ -1,6 +1,5 @@
 # Proposal.md
-# Title
-Rosie's Bakery
+# Title: Rosie's Bakery
 
 ## Repository
 https://github.com/RoshniSoundharrajan/Proposal.md.git
